@@ -1,0 +1,18 @@
+{
+    "name": "shelderr/slaravel-simple-zip-validation",
+    "description": "This package makes it easy to validate a zip archive",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shelderr\\LaravelSimpleZip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eugene Tkachenko",
+            "email": "zhenytkachenko70@gmail.com"
+        }
+    ],
+    "require": {}
+}
